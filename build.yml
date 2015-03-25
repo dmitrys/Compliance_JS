@@ -16,7 +16,7 @@ connection:
 iphone:
   configuration: "Release"
   sdk: iphoneos8.2
-#  entitlements: ./production/Entitlements.plist
+  entitlements: ./production/Entitlements.plist
   codesignidentity: "iPhone Developer"
   BundleIdentifier: "com.rhomobile.compliancetestjs"
   BundleURLScheme: "compliancetestjs"
